@@ -3,5 +3,6 @@
 /.github
 /bin
 /assets
+/src
 yarn-error.log
 yarn.lock
